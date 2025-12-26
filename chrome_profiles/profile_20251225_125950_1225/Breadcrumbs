@@ -1,0 +1,89 @@
+0:00:43 Tab1 FinishNav59
+0:00:43 Tab1 StartNav60 #renderer-user #link
+0:00:43 Tab1 FinishNav60
+0:00:43 Tab1 StartNav61 #renderer-user #auto_subframe
+0:00:44 Tab1 FinishNav61
+0:00:44 Tab1 PageLoad
+0:00:44 Tab1 StartNav62 #renderer-script #auto_subframe
+0:00:44 Tab1 FinishNav62
+0:00:44 Tab1 PageLoad
+0:00:44 Tab1 StartNav63 #renderer-script #auto_subframe
+0:00:44 Tab1 FinishNav63
+0:00:44 Tab1 PageLoad
+0:00:44 Tab1 StartNav64 #renderer-script #auto_subframe
+0:00:44 Tab1 FinishNav64
+0:00:44 Tab1 PageLoad
+0:00:44 Tab1 StartNav65 #renderer-script #auto_subframe
+0:00:44 Tab1 FinishNav65
+0:00:44 Tab1 PageLoad
+0:00:44 Tab1 StartNav66 #renderer-script #auto_subframe
+0:00:44 Tab1 FinishNav66
+0:00:44 Tab1 PageLoad
+0:00:44 Tab1 StartNav67 #renderer-script #auto_subframe
+0:00:44 Tab1 FinishNav67
+0:00:44 Tab1 PageLoad
+0:00:44 Tab1 StartNav68 #renderer-script #auto_subframe
+0:00:44 Tab1 FinishNav68
+0:00:44 Tab1 PageLoad
+0:00:44 Tab1 StartNav69 #renderer-script #auto_subframe
+0:00:44 Tab1 FinishNav69
+0:00:44 Tab1 PageLoad
+0:00:52 Tab1 StartNav70 #renderer-script #link
+0:00:52 Tab1 FinishNav70
+0:00:52 Tab1 StartNav71 #renderer-script #link
+0:00:52 Tab1 FinishNav71
+0:00:52 Tab1 StartNav72 #renderer-script #link
+0:00:52 Tab1 FinishNav72
+0:00:52 Tab1 StartNav73 #renderer-script #link
+0:00:52 Tab1 FinishNav73
+0:01:16 Tab1 StartNav74 #renderer-user #link
+0:01:16 Tab1 FinishNav74
+0:01:16 Tab1 StartNav75 #renderer-user #link
+0:01:16 Tab1 FinishNav75
+0:01:16 Tab1 StartNav76 #renderer-user #link
+0:01:16 Tab1 FinishNav76
+0:01:16 Tab1 StartNav77 #renderer-user #link
+0:01:16 Tab1 FinishNav77
+0:01:16 Tab1 StartNav78 #renderer-user #link
+0:01:16 Tab1 FinishNav78
+0:01:16 Tab1 StartNav79 #renderer-user #link
+0:01:16 Tab1 FinishNav79
+0:01:16 Tab1 StartNav80 #renderer-user #link
+0:01:16 Tab1 FinishNav80
+0:01:16 Tab1 StartNav81 #renderer-user #auto_subframe
+0:01:17 Tab1 FinishNav81
+0:01:17 Tab1 PageLoad
+0:01:17 Tab1 StartNav82 #renderer-script #auto_subframe
+0:01:17 Tab1 FinishNav82
+0:01:17 Tab1 PageLoad
+0:01:17 Tab1 StartNav83 #renderer-script #auto_subframe
+0:01:17 Tab1 FinishNav83
+0:01:17 Tab1 PageLoad
+0:01:17 Tab1 StartNav84 #renderer-script #auto_subframe
+0:01:17 Tab1 FinishNav84
+0:01:17 Tab1 PageLoad
+0:01:17 Tab1 StartNav85 #renderer-script #auto_subframe
+0:01:17 Tab1 FinishNav85
+0:01:17 Tab1 PageLoad
+0:01:17 Tab1 StartNav86 #renderer-script #auto_subframe
+0:01:17 Tab1 FinishNav86
+0:01:17 Tab1 PageLoad
+0:01:17 Tab1 StartNav87 #renderer-script #auto_subframe
+0:01:17 Tab1 FinishNav87
+0:01:17 Tab1 PageLoad
+0:01:17 Tab1 StartNav88 #renderer-script #auto_subframe
+0:01:17 Tab1 FinishNav88
+0:01:17 Tab1 PageLoad
+0:01:17 Tab1 StartNav89 #renderer-script #auto_subframe
+0:01:17 Tab1 FinishNav89
+0:01:17 Tab1 PageLoad
+0:01:23 Widget Closed: MenuHost
+0:01:25 Widget Closed: StatusBubble
+0:01:25 Widget Closed: MenuHost
+0:01:25 DevTools_InspectElement
+0:01:25 DevTools_InspectRenderer
+0:01:25 DevTools_PanelShown_elements
+0:01:27 Widget Closed: PasswordSaveUpdateView
+0:01:38 DevTools_Close
+0:01:56 TextSelectionChanged
+0:03:00 Browser1 Close Tab1 at 0
